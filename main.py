@@ -8,7 +8,8 @@ import mysql.connector
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-    a = 1
+
+    a = 1234
     c = 0
     b = 1
     if c == 0:
